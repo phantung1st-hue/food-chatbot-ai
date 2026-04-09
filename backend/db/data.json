@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "phan thanh trong",
+      "email": "thanhtrong2006st@gmail.com",
+      "password": "$2a$10$rpI/g9anZNWiAxZNlHeVBuQggluib2pcM3uI0ajMdx/xQxKxoCm82",
+      "created_at": "2026-04-09T07:46:12.614Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "user_message": "gợi ý món ăn dưới 500k cho 3 người ăn",
+      "bot_message": "Tuyệt vời! Với ngân sách 500k cho 3 người, chúng ta có thể có một bữa ăn ngon miệng và đủ đầy. Dưới đây là một vài gợi ý:\n\n---\n\n### 🥩 **Gợi Ý 1: Lẩu Thập Cẩm Hải Sản & Thịt**\n\n*   **Thời gian:** Tối\n*   **Sở thích:** Mọi người, thích đồ nhúng đa dạng.\n*   **Chi phí ước lượng:** 350k - 450k\n\n**Nguyên liệu chính:**\n\n*   **Hải sản:** Tôm tươi (300g), mực tươi (200g), ngao/sò (300g).\n*   **Thịt:** Thịt bò ba chỉ (200g), giò sống (100g).\n*   **Rau củ:** Nấm các loại (kim châm, đùi gà, hương), đậu phụ, cải thảo, rau muống, cà chua, hành tây.\n*   **Gia vị:** Gói gia vị lẩu (thái hoặc riêu cua tùy thích), sa tế, hành, tỏi, gừng.\n*   **Mì/Bún:** Ăn kèm.\n\n**Cách làm ngắn gọn:**\n\n1.  Sơ chế hải sản, thịt, rau củ sạch sẽ, thái miếng vừa ăn.\n2.  Phi thơm hành, tỏi, gừng, cho cà chua vào xào mềm tạo màu.\n3.  Cho gói gia vị lẩu và nước dùng vào đun sôi, nêm nếm vừa ăn.\n4.  Nhúng các loại nguyên liệu vào nước lẩu cho chín tới.\n5.  Ăn kèm mì/bún và nước chấm tùy thích.\n\n---\n\n### 🍗 **Gợi Ý 2: Gà Quay Mật Ong & Cơm Chiên Dương Châu**\n\n*   **Thời gian:** Trưa/Tối\n*   **Sở thích:** Thích món ăn chắc bụng, có vị ngọt mặn hấp dẫn.\n*   **Chi phí ước lượng:** 400k - 500k\n\n**Nguyên liệu chính:**\n\n*   **Gà:** 1/2 con gà ta hoặc 1 đùi gà lớn.\n*   **Nguyên liệu cơm chiên:** Cơm nguội (3 chén), lạp xưởng (1 cây), tôm tươi (100g), trứng gà (2 quả), đậu Hà Lan, cà rốt, hành lá.\n*   **Gia vị ướp gà:** Mật ong, xì dầu, dầu hào, tỏi băm, tiêu, ngũ vị hương (tùy chọn).\n*   **Gia vị cơm chiên:** Nước mắm, hạt nêm, tiêu.\n\n**Cách làm ngắn gọn:**\n\n1.  **Gà quay:**\n    *   Trộn đều các gia vị ướp gà, ướp gà ít nhất 30 phút.\n    *   Áp chảo hoặc nướng gà cho chín vàng đều, thoa thêm mật ong ở những phút cuối để gà bóng đẹp.\n2.  **Cơm chiên Dương Châu:**\n    *   Lạp xưởng, tôm, cà rốt thái hạt lựu. Trứng đánh tan.\n    *   Cho dầu nóng, phi thơm hành, cho lạp xưởng, tôm, cà rốt, đậu Hà Lan vào xào chín.\n    *   Cho cơm vào chiên tơi, nêm nếm gia vị.\n    *   Cho trứng vào, đảo nhanh cho trứng bám đều vào cơm. Thêm hành lá.\n3.  Trình bày gà quay và cơm chiên ra đĩa.\n\n---\n\n**Lưu ý:** Chi phí có thể thay đổi tùy thuộc vào địa điểm mua sắm và giá cả thị trường. Chúc bạn có một bữa ăn ngon miệng!",
+      "created_at": "2026-04-09T07:53:21.140Z"
+    }
+  ],
+  "counters": {
+    "userId": 2,
+    "chatId": 2
+  }
+}
