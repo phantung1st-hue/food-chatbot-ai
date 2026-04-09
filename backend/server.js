@@ -15,7 +15,8 @@ app.use(
   cors({
     origin: [
       'http://localhost:5173',
-      'https://food-chatbot-ai.vercel.app'
+      'https://food-chatbot-ai.vercel.app',
+      'https://food-chatbot-ai-1.onrender.com'
     ],
     credentials: true
   })
