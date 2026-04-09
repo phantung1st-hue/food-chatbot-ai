@@ -1,6 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
+
 import './db/database.js';
 import authRoutes from './routes/authRoutes.js';
 import chatRoutes from './routes/chatRoutes.js';
@@ -12,9 +13,14 @@ const PORT = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: process.env.CLIENT_URL || 'http://localhost:5173'
+    origin: [
+      'http://localhost:5173',
+      'https://food-chatbot-ai.vercel.app'
+    ],
+    credentials: true
   })
 );
+
 app.use(express.json());
 
 app.get('/', (req, res) => {
